@@ -1,0 +1,84 @@
+
+header {
+    color: #fff;
+    font-size:30px;
+    display: flex;
+    justify-content: center;
+    padding: 0 0 15px 0;
+}
+*{
+    font-family:'Poppins', sans-serif;
+}
+
+body{
+    margin: auto;
+    background-image: url("FondoIndex.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+}
+
+.container{
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 0 15px 0 15px;
+}
+
+
+::-webkit-input-placeholder{
+    color:#fff;
+}
+
+.TextEntr{
+    height: 45px;
+    width: 87%;
+    border: none;   
+    outline: none;
+    border-radius: 30px;
+    color: #ffffff;
+    margin: 0 0 15px 0;
+    padding: 0 0 0 42px;
+    background-color: rgb(0, 0, 0);
+    background: rgba(255, 255, 255, 0.199);
+}
+
+.Boton{
+    height: 45px;
+    width: 100%;
+    border: none;   
+    outline: none;
+    border-radius: 30px;
+    color: #000000;
+    text-align: center;
+    padding: 0 10px 0 10px;
+    background: rgb(236, 234, 234);
+}
+
+.Ex1{
+    float:right;
+}
+
+
+.Extra{
+    color: #f3eeee;
+    font-size: small;
+    margin: 5px 0 0 0;
+}
+
+#Reg {
+    background-color: #ffffff00;
+    border:none;
+    color: rgb(255, 255, 255);
+    float: left;
+    text-decoration: none;
+}
+
