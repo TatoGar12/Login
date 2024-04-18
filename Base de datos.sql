@@ -1,6 +1,9 @@
 create database Sistema;
-create user Tato identified by "987654321";
+create user tato identified by "987654321";
 use Sistema;
+grant select, update, delete,insert
+on *.*
+to Tato;
 
 CREATE TABLE IF NOT EXISTS usuarios (
     gmail varchar(25) primary key,
