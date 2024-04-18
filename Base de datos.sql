@@ -1,4 +1,5 @@
 create database Sistema;
+create user Tato identified by "987654321";
 use Sistema;
 
 CREATE TABLE IF NOT EXISTS usuarios (
