@@ -5,7 +5,7 @@ $ConWeb = $_POST["Con"];
 
 // Credenciales de la base de datos
 $servername = "localhost";
-$username = "root";
+$username = "tato";
 $password = "47314244";
 $database = "Sistema";
 // Conectar a la base de datos
