@@ -1,5 +1,5 @@
 create database Sistema;
-create user tato identified by "987654321";
+create user tato identified by "47314244";
 use Sistema;
 grant select, update, delete,insert
 on *.*
