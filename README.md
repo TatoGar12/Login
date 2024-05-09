@@ -48,3 +48,11 @@ Se muestra un mensaje de error si hay algún problema durante el registro.
 Consideraciones de Seguridad
 
 Con la integración de HTML, CSS, PHP y MySQL, el sistema de inicio de sesión y registro ofrece una forma segura y eficiente para que los usuarios autentiquen y registren en una aplicación web.
+
+# integrantes: 
+Facundo Garcia
+Facundo Bueno
+Fran Lorenzo
+Andres Legaria
+Tiago Donato
+Luis Friaza
